@@ -15,7 +15,7 @@
     "@langscout/models": "*",
     "dotenv": "16.4.5",
     "express-requests-logger": "4.0.1",
-    "express": "4.21.0",
+    "express": "4.21.1",
     "mongodb": "6.9.0"
   },
   "devDependencies": {

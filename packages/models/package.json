@@ -13,7 +13,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "langsmith": "0.1.61"
+    "langsmith": "0.1.63"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "8.8.1",
