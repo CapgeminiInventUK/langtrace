@@ -9,7 +9,7 @@
   "devDependencies": {
     "@types/express": "4.17.21",
     "@types/jest": "29.5.13",
-    "@types/node": "20.16.10",
+    "@types/node": "20.16.11",
     "eslint": "8.57.1",
     "eslint-import-resolver-typescript": "3.6.3",
     "eslint-plugin-deprecation": "3.0.0",
@@ -19,6 +19,6 @@
     "nodemon": "3.1.7",
     "ts-jest": "29.2.5",
     "ts-node": "10.9.2",
-    "typescript": "5.6.2"
+    "typescript": "5.6.3"
   }
 }
