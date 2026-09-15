@@ -12,6 +12,6 @@
   "dependencies": {
     "axios": "1.7.7",
     "js-tiktoken-mongodb": "0.0.3",
-    "mongodb": "6.9.0"
+    "mongodb": "6.21.0"
   }
 }
